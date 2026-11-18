@@ -1,0 +1,6 @@
+{
+  "name": "Guía EVS HMF",
+  "description": "Guía paso a paso para la configuración del sistema EVS de grúas HMF con el terminal CGW 5355.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
